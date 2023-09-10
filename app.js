@@ -47,10 +47,10 @@ function fetch_data(){
               title: 'Company Performance',
               curveType: 'function',
               legend: { position: 'bottom' },
-              hAxix: {
+              hAxis: {
                 textStyle: { color: '#FFFFFF'}
               },
-              vAxix: {
+              vAxis: {
                 textStyle: { color: '#FFFFFF'}
               },
               titletextStyle: { color: '#FFFFFF'},
